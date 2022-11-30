@@ -1,2 +1,3 @@
 # shovel-ready
-Maven archetype which combines all of the tools and libraries for a modern Java web application
+This project is a Maven archetype which combines an embedded web server, generated web service documentation, dependency injection, web socket pub/sub, REST over web socket, proper web service versioning, transaction management, authentication, authorization, federated login, proper timezone handling, payment processing, automatic error reporting, an ORM, and automatic code reloading. These components are integrated into a small and highly opinionated framework which strives to minimize time lost during server restarts by deferring work to the Maven build which is usually done at runtime by other frameworks.
+
